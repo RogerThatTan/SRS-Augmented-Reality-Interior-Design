@@ -1,5 +1,5 @@
 
-# **Augmented Reality Software for Interior Design**
+<h1 align = center> Augmented Reality Software for Interior Design </h1>
 
 This project presents an Augmented Reality (AR) based software solution aimed at enhancing the interior design experience. The application enables users to visualize and place virtual furniture and decor in real-time within their physical spaces using AR technology. It is designed to improve decision-making for both homeowners and designers by allowing interactive previews before actual implementation.
 
